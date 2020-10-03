@@ -1,0 +1,159 @@
+Measures for prevention
+ Practicing hand and respiratory hygiene is important at ALL times and is the best way to protect others and yourself.
+
+ When possible maintain at least a 1 meter distance between yourself and others. This is especially important if you are standing by someone who is coughing or sneezing.  Since some infected persons may not yet be exhibiting symptoms or their symptoms may be mild, maintaining a physical distance with everyone is a good idea if you are in an area where COVID-19 is circulating. 
+
+Measures for Self-Isolation in Case of Developing Symptoms or Being Tested Positive
+ Self-isolation is an important measure taken by those who have COVID-19 symptoms to avoid infecting others in the community, including family members.
+
+ Self-isolation is when a person who is experiencing fever, cough or other COVID-19 symptoms stays at home and does not go to work, school or public places. This can be voluntarily or based on his/her health care provider’s recommendation. However, if you live in an area with malaria or dengue fever it is important that you do not ignore symptoms of fever. Seek medical help. When you attend the health facility wear a mask if possible, keep at least 1 metre distant from other people and do not touch surfaces with your hands. If it is a child who is sick help the child stick to this advice.
+
+ If you do not live in an area with malaria or dengue fever please do the following:
+
+ -  If a person is in self-isolation, it is because he/she is ill but not severely ill (requiring medical attention)
+
+ have a large, well-ventilated with hand-hygiene and toilet facilities
+ If this is not possible, place beds at least 1 metre apart
+ Keep at least 1 metre from others, even from your family members
+ Isolate for 14 days, even if you feel healthy
+ Stay positive and energized by keeping in touch with loved ones by phone or online, and by exercising yourself at home.
+
+Medications for treating Covid-19
+ To date, there is no specific medicine recommended to prevent or treat the new Coronavirus. Specific treatments are under investigation and will be tested through clinical trials.
+ However, micronutrients, such as vitamins D and C and zinc, are critical for a well-functioning immune system and play a vital role in promoting health and nutritional well-being.  There is currently no guidance on the use of micronutrient supplements as a treatment of COVID-19.
+ Hydroxychloroquine or chloroquine, a treatment for malaria, lupus erythematosus, and rheumatoid arthritis, has been under study as a possible treatment for COVID-19. Current data shows that this drug does not reduce deaths among hospitalised COVID-19 patients, nor help people with moderate disease.*
+
+ The use of hydoxychloroquine and chloroquine is accepted as generally safe for patients with malaria and autoimmune diseases, but its use where not indicated and without medical supervision can cause serious side effects and should be avoided.
+
+ * More decisive research is needed to assess its value in patients with mild disease or as pre- or post-exposure prophylaxis in patients exposed to COVID-19.
+
+
+
+Develpment in the Vaccines
+  When candidate vaccines make it to human clinical trials, they first go through phase 1 trials primarily to test the vaccine’s safety, determine dosages and identify any potential side effects in a small number of people. Phase 2 trials further explore safety and start to investigate efficacy in larger groups. The final stage, phase 3 trials, which few vaccines ever make it to, involve thousands or tens of thousands of people, and aim to confirm and assess the effectiveness of the vaccine and identify any rare side effects which only show up in large groups. The World Health Organization (WHO) lists vaccine candidates at various stages of clinical trials. Here is a slightly more detailed look at those vaccines that have made it to phase 1 and beyond, based on publicly available information.
+	
+
+
+	
+		PHASE 1
+FINLAY VACCINE INSTITUTE (CUBA) - PROTEIN SUBUNIT VACCINE
+On August 18, Cuba announced that the Finlay Vaccine Institute in Havana would start a clinical trial of a vaccine for COVID-19. The vaccine, called Soberana 1, contains a part of the spike protein, called RBD, along with an adjuvant to boost the immune response. Initial trials will involve 676 people aged between 19 and 80 years and finish in January 2021.
+
+CLOVER BIOPHARMACEUTICALS INC., GSK & DYNAVAX *(AUSTRALIA) - PROTEIN-BASED VACCINE
+Clover has obtained US$ 3.5 million from CEPI to prepare and launch phase 1 clinical trials of its protein-based S-Trimer vaccine. These will involve 150 healthy adults in Australia.
+
+PEOPLE'S LIBERATION ARMY (PLA) ACADEMY OF MILITARY SCIENCES/WALVAX BIOTECH (CHINA) - RNA VACCINE
+The vaccine is being tested in two age groups – adults aged 18-59 years, and those aged 60 and older.
+
+VAXINE (AUSTRALIA) - PROTEIN SUBUNIT VACCINE
+Vaxine launched a phase 1 trial in July. Its vaccine combines viral proteins with an adjuvant that stimulates immune cells.
+
+MEDICAGO (CANADA) - PLANT-BASED VIRUS-LIKE-PARTICLE VACCINE
+Like Kentucky Bioprocessing, Medicago uses a species of tobacco plant to make vaccines. Virus genes are delivered into leaves, where plant cells manufacture proteins mimicking those found on viruses. In July, Medicago launched phase 1 trials of a plant-based COVID-19 vaccine in combination with adjuvants from GSK and Dynavax. If successful, it plans to start phase 2/3 trials in October. The company is partly funded by the cigarette manufacturer Philip Morris.
+
+UNIVERSITY OF QUEENSLAND & CSL LIMITED (AUSTRALIA) - PROTEIN SUBUNIT VACCINE
+Researchers at the University of Queensland in Brisbane are using a patented vaccine-development technique called a ‘molecular clamp' to stabilise a synthetic version of the characteristic 'spike' protein found on the SARS-CoV-2 virus’ surface (the protein would normally denature in the human body). The researchers expect to start human trials in July.
+
+REITHERA (ITALY) – ADENOVIRUS VACCINE
+The Italian biotechnology company ReiThera has developed a COVID-19 vaccine, called GRAd-COV2, based on an adenovirus that infects gorillas. In collaboration with the Lazzaro Spallanzani National Institute for Infectious Diseases they launched a phase 1 trial at the end of July.
+
+MEDIGEN (TAIWAN) - PROTEIN SUBUNIT VACCINE
+Taiwan-based vaccine company Medigen is making a vaccine made of a combination of spike proteins together with an adjuvant from Dynavax. Their registered phase 1 trial was set to start in September.
+
+WEST CHINA HOSPITAL OF SICHUAN UNIVERSITY (CHINA) – PROTEIN SUBUNIT VACCINE
+The hospital received approval to run a phase 1 trial of its ‘insect vaccine’ on 24 August. The vaccine is produced by infecting insect cells with a virus which carries a gene for a recombinant protein from SARS-CoV-2.
+
+
+MERCK (USA) - REPLICATING VIRAL VECTOR VACCINE
+Merck acquired the Austrian firm Themis Bioscience in June and is working on a vaccine which was originally developed at the Institut Pasteur. The vaccine uses the weakened measles virus to carry genetic material into cells. A phase 1 trial launched in August.
+
+PHASE 1/PHASE 2
+IMPERIAL COLLEGE (UK) - SARNA VACCINE
+This vaccine candidate which uses self-amplifying RNA technology (SARNA) has been developed by researchers at Imperial College London. The research has received £41 million in funding from the UK government, plus £5 million through philanthropic donations. Phase 1/2 trials involving 300 healthy volunteers, who will each received two doses of the vaccine, began on 15 June. Imperial College has partnered with Morningside Ventures to manufacture and distribute the vaccine. It has also created a social enterprise called VacEquity Global Health to develop and distribute low-cost vaccines around the world - including to low- and middle-income countries.
+
+VECTOR INSTITUTE (RUSSIA) - PROTEIN SUBUNIT VACCINE
+On August 26, a Russian biological research centre known as the Vector Institute registered a Phase 1/2 trial for a coronavirus vaccine called EpiVacCorona. Russia's deputy Prime Minister, Tatiana Golikova, has said the country is preparing to approve the vaccine in late September or early October, which would make it the second they have approved so far.
+
+SANOFI PASTEUR/GSK (USA) - PROTEIN SUBUNIT VACCINE
+The vaccine is based on the same design used by Sanofi create its approved influenza vaccine, Flublok. A phase 1/2 trial launched in September, while a phase 3 trial is planned for December. Sanofi has agreed to provide much of its global supply of the vaccine to COVAX, an international collaboration co-led by Gavi, CEPI and WHO to deliver it equitably across the world. The company plans to manufacture up to one billion doses in 2021.
+
+PHASE 2
+BHARAT BIOTECH (INDIA) - INACTIVATED VACCINE
+In collaboration with the Indian Council of Medical Research and the National Institute of Virology, Bharat Biotech’s vaccine, called Covaxin, is the result of a collaboration with the Indian Council of Medical Research and the National Institute of Virology. The company launched phase 1/2 trials of the vaccine in July.
+
+ZYDUS CADILA (INDIA) - DNA-BASED VACCINE
+Also in July, Zydus Cadila announced that it had received approval to start human phase1/2 trials of its DNA-based vaccine - making it the second Indian company to enter the COVID-19 vaccine race. This relatively new approach involves injecting the code for a very small part of the virus’ genetic material – just enough to trigger an immune response. Phase 2 trials launched on 6 August.
+
+CUREVAC (GERMANY) - MRNA VACCINE
+CureVac’s vaccine candidate has received €300 million backing from the German government, €80 million from the European Commission and €8.3 million from CEPI. The two-dose vaccine will be tested in 168 healthy individuals between the ages of 18 and 60. Earlier this year, the Bill & Melinda Gates Foundation also made a commitment to invest US$ 52 million in CureVac to support its platform technology and the construction of a Good Manufacturing Practice (GMP) production facility.
+
+NOVAVAX (USA) - PROTEIN SUBUNIT VACCINE
+Novavax is using a nanoparticle technology platform to generate antigens from the protein found on the spiky outer shell of the coronavirus. The vaccine also received the highest funding from the Coalition for Epidemic Preparedness Innovations (CEPI) with a total of US$ 388 million. Phase 2 trials started in August in South Africa and phase 3 trials are due to start in October.
+
+ANHUI ZHIFEI LONGCOM BIOPHARMACEUTICAL & INSTITUTE OF MICROBIOLOGY, CHINESE ACADEMY OF SCIENCES (CHINA) - PROTEIN SUBUNIT VACCINE
+This vaccine candidate is being tested in collaboration with the Second Affiliated Hospital of Chongqing Medical University and Beijing Chao Yang Hospital. Phase 2 trials began in July.
+
+CHINESE ACADEMY OF MEDICAL SCIENCES (CHINA) - INACTIVATED PLATFORM VACCINE
+The Institute of Medical Biology at the Chinese Academy of Medical Sciences (IMBCAMS) has previously developed inactivated vaccines for polio and hand-foot-and-mouth disease. Phase 2 trials of its COVID-19 vaccine began in June.
+
+INOVIO PHARMACEUTICALS (USA) - DNA VACCINE
+Inovio put its COVID-19 vaccine candidate, INO-4800, into human trials in early April and plans to launch phase 2/3 trials shortly. It is also developing a vaccine against the related MERS-CoV coronavirus.
+
+ANGES (JAPAN) - DNA-BASED VACCINE
+On 30 June, the Japanese biotechnology company AnGes announced it had started phase 1 safety trials of its DNA-based vaccine, which it developed in partnership with Osaka University and Takara Bio.
+
+GENEXINE CONSORTIUM (SOUTH KOREA) - DNA VACCINE
+This vaccine is being jointly developed by a consortium which includes Genexine, Binex, GenNBio, the International Vaccine Institute, Korea Advanced Institute of Science, and the Technology and Pohang University of Science and Technology. The vaccine is currently in phase 1/2a trials, with tests being conducted on 190 healthy participants aged 18 to 50. Genexine expects to be able to market the vaccine by the second half of 2021.
+
+KENTUCKY BIOPROCESSING (USA) - VIRAL PROTEIN VACCINE
+This vaccine is created by engineering a species of tobacco called Nicotiana benthamiana to make viral proteins. Kentucky Bioprocessing previously used this technique to make a drug called Zmapp for Ebola, and registered a phase 1 trial for its coronavirus vaccine in July.
+
+ARCTURUS/DUKE-NUS (USA/SINGAPORE) - MRNA VACCINE
+A phase 1/2 trial of this vaccine was launched in Singapore in August.
+
+RESEARCH INSTITUTE FOR BIOLOGICAL SAFETY PROBLEMS (KAZAKHSTAN) - INACTIVATED VACCINE
+Kazakhstan began researching its QazCovid vaccine this summer, and started a phase 2 trial on 1 September. It expects to complete the study in April 2021.
+
+JOHNSON&JOHNSON (USA) - ADENOVIRUS VACCINE
+Johnson & Johnson has previously developed vaccines for Ebola and other diseases using its Recombinant Adenovirus Serotype 26 (Ad26) vaccine vector, and has now made one targeting SARS-CoV-2. The company launched phase 1/2 trials in July, and plans to launch a phase 3 trial involving 60,000 participants in Latin America this month. It hopes to make up to a billion doses in 2021.
+
+PHASE 2/3
+UNIVERSITY OF OXFORD (UK) - VIRAL VECTOR VACCINE
+Phase 3 clinical trials of the ChAdOx1 vaccine are ongoing, involving more than 10,000 volunteers from across the UK, including children and older people. It is also being tested in Brazil, the United States and South Africa - the first COVID-19 vaccine trial in Africa. The vaccine was developed by the University of Oxford and AstraZeneca has agreed to manufacture 300 million doses, with support from the Coalition for Epidemic Preparedness Innovations (CEPI). Assuming it is safe and effective, the first doses are expected to be available in late 2020. However, on 9 Sept the decision was made to halt the trial after on volunteer experienced an unexplained illness.
+
+BIONTECH (GERMANY) - MRNA VACCINE
+Working with Pfizer, BioNTech is currently testing its BNT162 vaccine in human volunteers in Germany and the United States. It announced the launch of a phase 2/3 trial involving 30,000 volunteers in the United States, Argentina, Brazil and Germany on 27 July. The company has also entered into a €100 million debt financing agreement with the European Investment Bank to scale-up European production of the vaccine.
+
+PHASE 3
+MODERNA (USA) - MRNA VACCINE
+This RNA vaccine, which is designed to induce antibodies against a portion of the coronavirus ‘spike’ protein, has been developed by Moderna, in Cambridge, Massachusetts, with funding from the National Institute of Allergy and Infectious Diseases (NIAID) - part of the US National Institutes of Health. It has already been tested in people of various ages and a phase 3 trial, which will enrol 30,000 healthy people from across the United States, started in July.
+
+SINOVAC (CHINA) - INACTIVATED VACCINE
+This vaccine uses an inactivated form of the SARS-CoV-2 virus to try and induce immunity. It protected rhesus macaques from infection when they were tested three weeks after immunisation, and Sinovac recently began phase 3 trials involving 9,000 volunteers in Brazil and Indonesia. The Chinese government has granted the Sinovac vaccine emergency approval for limited use, a report in July said.
+
+WUHAN INSTITUTE OF BIOLOGICAL PRODUCTS (CHINA) - INACTIVATED VACCINE
+The Wuhan Institute is part of the state-owned Chinese company Sinopharm and has been putting this inactivated (killed virus) vaccine through clinical tests. It launched phase 3 trials in the United Arab Emirates in July, and in Peru and Morocco in August.
+
+BEIJING INSTITUTE OF BIOLOGICAL PRODUCTS (CHINA) - INACTIVATED VACCINE
+The Beijing Institute is also part of China’s state-run Sinopharm Group, and is collaborating with the Chinese Center for Disease Control and Prevention on this vaccine. Phase 3 trials in 5,000 people in the United Arab Emirates are running alongside those of the Wuhan Institute version.
+
+CANSINO BIOLOGICS INC. (CHINA) - VIRAL VECTOR VACCINE
+This Ad5-nCoV vaccine candidate was jointly developed with the Academy of Military Medical Sciences in China and uses a harmless non-replicating viral vector (a sort of molecular transporter) to carry fragments of viral protein which may stimulate an immune response into the human body. 
+The Tianjin-based company used the same platform for its Ebola vaccine. In July, CanSino Biologics reported that phase 2 trials of the new vaccine showed that it produced a strong immune response. On 9 August, the Saudi health ministry announced that CanSino would run a phase 3 trial of the vaccine in Saudi Arabia; later that month the company also started a trial in Pakistan.
+
+GAMALEYA RESEARCH INSTITUTE (RUSSIA) - VIRAL VECTOR VACCINE
+Gamaleya launched a phase 1 clinical trial on this non-replicating viral vector vaccine candidate in mid-June, followed by a phase 3 trial involving more than 2,000 people in Russia, Latin America and the Middle East - smaller than most other phase 3 trials - soon afterwards. In August, Russia had announced that the vaccine would be approved for use, even though these trials have not yet been completed.
+
+
+
+RELATED ARTICLES
+https://www.gavi.org/vaccineswork/how-clinical-vaccine-trials-are-speeding-pandemic How clinical vaccine trials are speeding up in a pandemic
+https://www.gavi.org/vaccineswork/how-measure-success-covid-19-vaccineHow to measure the success of a COVID-19 vaccine?
+ https://www.gavi.org/vaccineswork/when-it-comes-covid-19-vaccines-how-can-governments-back-winner">When it comes to COVID-19 vaccines how can governments back a winner?
+
+
+	There are currently over 169 COVID-19 vaccine candidates under development, with 26 of these in the human trial phase. WHO is working in collaboration with scientists, business, and global health organizations through the https://www.who.int/initiatives/act-accelerator ACT Accelerator to speed up the pandemic response. When a safe and effective vaccine is found, https://www.who.int/initiatives/act-accelerator/covax COVAX (led by https://www.who.int/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwn9v7BRBqEiwAbq1Ey-bq5Og-O_80ZzvBlZwIPcyMWIsjC0NygqeftllmPen3wszC8qLTuhoC56MQAvD_BwE WHO, https://www.gavi.org/covax-facility GAVI and https://cepi.net COVAX/ CEPI) will facilitate the equitable access and distribution of these vaccines to protect people in all countries. People most at risk will be prioritized. 
+ 
+ Potential Vaccines being developed by the countries 
+ 
+ 	https://gallery-repo.inshorts.com/gallery/view/d8e63fb0-fcec-4d8d-bc64-e947288bc702
